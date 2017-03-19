@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<!--string-->
+	<string name="fmt_time_12hour_minute_pm" package="miui">hh:mm aa EE</string>
+    <string name="fmt_time_24hour_minute" package="miui">kk:mm EE</string>
+    <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+<!--dimen-->
+	<dimen name="expanded_header_no_search_height">85.0dip</dimen>
+	<!--dimen name="single_page_toggles_offset">0dip</dimen> 
+	<dimen name="single_page_toggles_space">2dip</dimen--> 
+	<dimen name="statusbar_clock_size">10.0sp</dimen> 
+    <dimen name="statusbar_battery_size">10.0sp</dimen>
+    <dimen name="statusbar_carrier_size">10.0sp</dimen>
+<!--integer-->
+	<integer name="edit_fixed_position">17</integer>
+	<integer name="expanded_status_bar_toggles_rows">4</integer>
+    <integer name="expanded_status_bar_toggles_column" package="miui">4</integer>
+    <integer name="expanded_status_bar_toggles_land_column"package="miui">6</integer>
+<!--bool-->
+	<bool name="auto_modify_expanded_header_color">false</bool>
+	<bool name="config_show_statusbar_search">false</bool>
+	<bool name="config_show_statusbar_blur_bg">true</bool>
+<!--color-->
+	<color name="no_notification_tips_text">#80ffffff</color>
+	<!--Notice: status_bar_expanded_color is old value-->
+	<color name="status_bar_expanded_color">#ff252525</color>
+	<color name="toggle_lable_color_p">#ffffffff</color>
+	<color name="toggle_lable_color_n">#99ffffff</color>
+	<color name="qs_detail_disconnect_header_color">#ff181818</color>
+	<color name="qs_detail_connect_header_color">#ff181818</color>
+	<color name="qs_detail_button">#e6ffffff</color>
+	<color name="qs_detail_header_text">#e6ffffff</color>
+    <color name="qs_detail_separated_text">#4dffffff</color>
+    <color name="qs_detail_item_primary_text_color">#b3ffffff</color>
+    <color name="qs_detail_empty_text_color">#ffffffff</color>
+    <color name="qs_detail_connect_item_primary_text_color">#ffffffff</color>
+    <color name="qs_detail_connect_item_secondary_text_color">#baffffff</color>
+	<color name="status_bar_expanded_date">#ffffffff</color>
+    <color name="status_bar_expanded_weather_publish_time">#ffffffff</color>
+    <color name="status_bar_expanded_weather">#ffffffff</color>
+    <color name="status_bar_expanded_search">#ffffffff</color>
+    <color name="status_bar_flow_normal_color">#ffffffff</color>
+	<color name="notification_panel_bg_color">#cc000000</color>
+</MIUI_Theme_Values>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+ <MIUI_Theme_Values >
+<drawable name="expanded_header_bg_cloudy.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_default.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_fog.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_hail.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_haze.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_rain.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_rain_1.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_rain_2.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_sand.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_snow.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_sunny.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_sunny_1.png">expanded_header_bg_clear.png</drawable>
+<drawable name="expanded_header_bg_sunny_2.png">expanded_header_bg_clear.png</drawable>
+</MIUI_Theme_Values>
