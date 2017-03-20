@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+ <MIUI_Theme_Values >
+<drawable name="action_bar_embeded_tabs_bg_light.9.png">action_bar_bg_light.9.png</drawable>
+<drawable name="action_bar_light.9.png">action_bar_bg_light.9.png</drawable>
+<drawable name="action_bar_stack_bg_light.9.png">action_bar_bg_light.9.png</drawable>
+<drawable name="action_bar_title_stack_bg_light.9.png">action_bar_bg_light.9.png</drawable>
+<drawable name="action_mode_bg_light.9.png">action_bar_bg_light.9.png</drawable>
+<drawable name="action_bar_tab_bg_last_selected_light.9.png">action_bar_tab_bg_first_selected_light.9.png</drawable>
+<drawable name="action_bar_tab_bg_middle_selected_light.9.png">action_bar_tab_bg_first_selected_light.9.png</drawable>
+ </MIUI_Theme_Values>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIUI_Theme_Filters>
+	<filter path="framework-miui">
+		<!--package>com.android.contacts</package-->
+		<!--package>com.android.deskclock</package-->
+		<package>com.android.keyguard</package>
+		<package>com.android.fileexplorer</package>
+		<package>com.android.mms</package>
+		<package>com.android.packageinstaller</package>
+		<package>com.android.settings</package>
+		<package>com.android.systemui</package>
+		<package>com.android.updater</package>
+		<package>com.miui.home</package>
+		<package>com.miui.touchassistant</package>
+		<package>com.android.phone</package>
+		<package>com.miui.bugreport</package>
+		<package>android</package>
+		<package>miui</package>
+		<package>search</package>
+	</filter>
+</MIUI_Theme_Filters>

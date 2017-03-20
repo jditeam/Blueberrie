@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+	
+<MIUI_Theme_Values>
+
+<!--color-->
+	<color name="action_bar_title_text_color_light">#ffffffff</color>
+	<color name="edit_text_search_color_light">#ffffffff</color>
+    <color name="edit_text_search_hint_color_light">#ff252525</color>
+	<color name="action_bar_title_settings_text_color_light">#fcffffff</color>
+	<color name="action_mode_title_button_text_color_pressed_light">#fcffffff</color>
+	<color name="action_mode_title_button_text_color_normal_light">#ccffffff</color>
+	<color name="action_mode_title_text_color_light">#ffffffff</color>
+    <color name="action_mode_title_default_button_text_color_pressed_light">#fcffffff</color>
+    <color name="action_bar_title_text_color_disabled_light">#4cffffff</color>
+    <color name="action_bar_subtitle_text_light">#b2ffffff</color>
+    <color name="action_bar_tab_text_color_disable_dark">#4cffffff</color>
+    <color name="action_bar_tab_text_color_disable_light">#4cffffff</color>
+    <color name="action_bar_tab_text_color_selected_light">#ffffffff</color>
+    <color name="action_bar_tab_text_color_normal_light">#99ffffff</color>
+    
+    
+    <!--color name="immersion_window_background_light">#f2252525</color>
+<color name="action_bar_tab_text_color_selected_light">#ffffffff</color>
+    <color name="immersion_text_color_disable_light">#ffffffff</color>
+    <color name="immersion_text_color_pressed_light">#ffffffff</color>
+    <color name="immersion_text_color_normal_light">#ffffffff</color-->
+        
+    
+<!--color name="">#ffffffff</color-->
+
+<!--integer-->
+	<integer name="window_translucent_status" package="miui">#2</integer>
+	
+</MIUI_Theme_Values>
